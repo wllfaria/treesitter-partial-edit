@@ -1,0 +1,18 @@
+{
+    "page": 1,
+    "items": 10,
+    "totalPages": 2,
+    "totalItems": 18,
+    "items": [
+        { "name": "Name 1", "price": 133 },
+        { "name": "Name 2", "price": 143 },
+        { "name": "Name 3", "price": 153 },
+        { "name": "Name 4", "price": 163 },
+        { "name": "Name 5", "price": 173 },
+        { "name": "Name 6", "price": 183 },
+        { "name": "Name 7", "price": 193 },
+        { "name": "Name 8", "price": 1103 },
+        { "name": "Name 9", "price": 1113 },
+        { "name": "Name 10", "price": 1123 },
+    ]
+}

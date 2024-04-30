@@ -1,0 +1,10 @@
+[package]
+name = "ts_fold"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tree-sitter = "0.22.5"
+tree-sitter-json = "0.21.0"
+ropey = "1.6.1"
+crossterm = "0.27.0"
